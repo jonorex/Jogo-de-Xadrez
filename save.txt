@@ -1,0 +1,12 @@
+torre
+4
+4
+torre
+5
+2
+torre
+5
+4
+bispo
+6
+4
